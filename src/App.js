@@ -31,6 +31,12 @@ const App = () => {
       day: 'Feb 10th at 11:45pm', 
       reminder: true,
   },
+  {
+      id: 5, 
+      text: 'Test', 
+      day: 'Feb 10th at 11:45pm', 
+      reminder: false,
+  }
 
   ])
   
